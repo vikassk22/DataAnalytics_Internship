@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyspark
+dask[complete]
+scikit-learn
+nltk
+spacy
+textblob
+wordcloud
+mysql-connector-python
+sqlalchemy
+openpyxl
+xlrd
